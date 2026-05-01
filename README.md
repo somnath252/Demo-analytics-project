@@ -20,7 +20,7 @@ I built the **RavenStack Executive HQ** to demonstrate how to unify siloed data 
 ## 📸 Dashboard Preview
 *(Replace the placeholder below with a GIF or Screenshot of your Streamlit app)*
 
-![RavenStack Dashboard Preview]([https://via.placeholder.com/800x400.png?text=Add+a+Screenshot+or+GIF+of+your+Streamlit+App+Her](https://demo-analytics-project-001.streamlit.app/))
+[![RavenStack Dashboard Preview](https://via.placeholder.com/800x400.png?text=View+Live+Demo)](https://demo-analytics-project-001.streamlit.app/)
 
 ---
 
@@ -68,5 +68,6 @@ Behind the UI is a robust data cleaning pipeline that proves I understand data i
 ### 🤝 Let's Connect
 I built this project to demonstrate my ability to sit at the intersection of Data, Product, and Go-To-Market Strategy. If your SaaS company is looking for a professional who can translate raw database tables into revenue-driving narratives, let's talk.
 
-![Connect with me on LinkedIn](www.linkedin.com/in/somnath-das-modak-278054345) | ![Send me an Email](mailto:somumodak.2468+work@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/somnath-das-modak-278054345)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:somumodak.2468+work@gmail.com)
 
