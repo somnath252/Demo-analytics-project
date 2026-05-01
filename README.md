@@ -1,6 +1,6 @@
 # RavenStack SaaS Analytics Portfolio Project
 
-[![Live Demo](https://img.shields.io/badge/Live-View_Dashboard-success)](#) *(<-- Add your Streamlit Cloud link here!)*
+[![Live Demo](https://img.shields.io/badge/Live-View_Dashboard-success)](https://demo-analytics-project-001.streamlit.app/) *(<--Streamlit Cloud link here!)*
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io)
 [![Data Stack](https://img.shields.io/badge/Stack-Pandas%20%7C%20Plotly%20%7C%20NumPy-lightgrey)](#)
 
@@ -20,7 +20,7 @@ I built the **RavenStack Executive HQ** to demonstrate how to unify siloed data 
 ## 📸 Dashboard Preview
 *(Replace the placeholder below with a GIF or Screenshot of your Streamlit app)*
 
-![RavenStack Dashboard Preview](https://via.placeholder.com/800x400.png?text=Add+a+Screenshot+or+GIF+of+your+Streamlit+App+Here)
+![RavenStack Dashboard Preview]([https://via.placeholder.com/800x400.png?text=Add+a+Screenshot+or+GIF+of+your+Streamlit+App+Her](https://demo-analytics-project-001.streamlit.app/))
 
 ---
 
@@ -59,12 +59,14 @@ streamlit run saas_app.py
 
 ```
 The dashboard will automatically open in your default web browser at http://localhost:8501.
-###🧠 Technical Architecture & Data Hygiene
+### 🧠 Technical Architecture & Data Hygiene
 Behind the UI is a robust data cleaning pipeline that proves I understand data integrity:
 * **Automated Type Casting:** Strict boolean casting and datetime parsing for reliable time-series analysis.
 * **Metric Engineering:** Synthesized new KPIs on the fly, such as session_length_secs, friction_score, and ticket_latency_hours.
 * **Relational Merging:** Safely joined 5 distinct relational datasets (Accounts, Subscriptions, Usage, Tickets, Churn) without data duplication or loss.
 
-###🤝 Let's Connect
+### 🤝 Let's Connect
 I built this project to demonstrate my ability to sit at the intersection of Data, Product, and Go-To-Market Strategy. If your SaaS company is looking for a professional who can translate raw database tables into revenue-driving narratives, let's talk.
-Connect with me on LinkedIn | Send me an Email
+
+![Connect with me on LinkedIn](www.linkedin.com/in/somnath-das-modak-278054345) | ![Send me an Email](mailto:somumodak.2468+work@gmail.com)
+
