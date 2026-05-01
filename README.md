@@ -18,7 +18,6 @@ I built the **RavenStack Executive HQ** to demonstrate how to unify siloed data 
 ---
 
 ## 📸 Dashboard Preview
-*(Replace the placeholder below with a GIF or Screenshot of your Streamlit app)*
 
 [![RavenStack Dashboard Preview](Data_file/demo-analytics-project-001.streamlit.app_.png)](https://demo-analytics-project-001.streamlit.app/)
 
