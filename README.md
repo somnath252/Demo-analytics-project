@@ -51,3 +51,20 @@ If you'd like to spin up the interactive executive dashboard on your local machi
 1. Install the required dependencies:
 ```bash
 pip install -r requirements.txt
+
+```
+Launch the Streamlit app:
+```bash
+streamlit run saas_app.py
+
+```
+The dashboard will automatically open in your default web browser at http://localhost:8501.
+###🧠 Technical Architecture & Data Hygiene
+Behind the UI is a robust data cleaning pipeline that proves I understand data integrity:
+* **Automated Type Casting:** Strict boolean casting and datetime parsing for reliable time-series analysis.
+* **Metric Engineering:** Synthesized new KPIs on the fly, such as session_length_secs, friction_score, and ticket_latency_hours.
+* **Relational Merging:** Safely joined 5 distinct relational datasets (Accounts, Subscriptions, Usage, Tickets, Churn) without data duplication or loss.
+
+###🤝 Let's Connect
+I built this project to demonstrate my ability to sit at the intersection of Data, Product, and Go-To-Market Strategy. If your SaaS company is looking for a professional who can translate raw database tables into revenue-driving narratives, let's talk.
+Connect with me on LinkedIn | Send me an Email
